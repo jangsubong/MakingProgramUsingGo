@@ -2,6 +2,6 @@
 this repository is to make program what we need using go 
 
 ### TODO
-- [ ] What's the plan?
-     = Please Make a basic Golanguage class for us
-- [ ] Share what we want to make for task
+- [ ] Install go on your computer
+- [ ] Run the Hello World example
+- [ ] Upload a screenshot to this repository
